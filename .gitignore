@@ -1,0 +1,8 @@
+*.log
+*.exe
+*.ipynb
+*.csv
+
+!all most done.ipynb
+
+/.ipynb_checkpoints
